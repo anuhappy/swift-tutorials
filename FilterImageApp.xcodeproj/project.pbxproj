@@ -14,6 +14,7 @@
 		888F568B1FB7237000198B3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 888F56891FB7237000198B3B /* LaunchScreen.storyboard */; };
 		888F56961FB7237000198B3B /* FilterImageAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888F56951FB7237000198B3B /* FilterImageAppTests.swift */; };
 		888F56A11FB7237000198B3B /* FilterImageAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888F56A01FB7237000198B3B /* FilterImageAppUITests.swift */; };
+		888F56AF1FB7242000198B3B /* Taj_Mahal_(Edited).jpeg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 888F56AE1FB7241F00198B3B /* Taj_Mahal_(Edited).jpeg.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		888F569C1FB7237000198B3B /* FilterImageAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FilterImageAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		888F56A01FB7237000198B3B /* FilterImageAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterImageAppUITests.swift; sourceTree = "<group>"; };
 		888F56A21FB7237000198B3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		888F56AE1FB7241F00198B3B /* Taj_Mahal_(Edited).jpeg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Taj_Mahal_(Edited).jpeg.jpg"; path = "../../../../Desktop/Taj_Mahal_(Edited).jpeg.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		888F567F1FB7237000198B3B /* FilterImageApp */ = {
 			isa = PBXGroup;
 			children = (
+				888F56AE1FB7241F00198B3B /* Taj_Mahal_(Edited).jpeg.jpg */,
 				888F56801FB7237000198B3B /* AppDelegate.swift */,
 				888F56821FB7237000198B3B /* ViewController.swift */,
 				888F56841FB7237000198B3B /* Main.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				888F568B1FB7237000198B3B /* LaunchScreen.storyboard in Resources */,
 				888F56881FB7237000198B3B /* Assets.xcassets in Resources */,
+				888F56AF1FB7242000198B3B /* Taj_Mahal_(Edited).jpeg.jpg in Resources */,
 				888F56861FB7237000198B3B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
